@@ -1,0 +1,78 @@
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\bin\Debug\net6.0-windows\VaticanoGamin'.exe
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\bin\Debug\net6.0-windows\VaticanoGamin'.deps.json
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\bin\Debug\net6.0-windows\VaticanoGamin'.runtimeconfig.json
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\bin\Debug\net6.0-windows\VaticanoGamin'.dll
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\bin\Debug\net6.0-windows\VaticanoGamin'.pdb
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.csproj.AssemblyReference.cache
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.Form1.resources
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.Properties.Resources.resources
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.csproj.GenerateResource.cache
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.AssemblyInfoInputs.cache
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.AssemblyInfo.cs
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.csproj.CoreCompileInputs.cache
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.dll
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\refint\VaticanoGamin'.dll
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.pdb
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.genruntimeconfig.cache
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\ref\VaticanoGamin'.dll
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.NewGameSelectionScreen.resources
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.AssassinsMap.resources
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.deneme1111.resources
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.MageMap.resources
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.RangedMap.resources
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.TankMap.resources
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.Credit.resources
+C:\Users\chapk\OneDrive\Masaüstü\Wissen\Week-1\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.exit.resources
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\bin\Debug\net6.0-windows\VaticanoGamin'.exe
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\bin\Debug\net6.0-windows\VaticanoGamin'.deps.json
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\bin\Debug\net6.0-windows\VaticanoGamin'.runtimeconfig.json
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\bin\Debug\net6.0-windows\VaticanoGamin'.dll
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\bin\Debug\net6.0-windows\VaticanoGamin'.pdb
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.csproj.AssemblyReference.cache
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.AssassinsMap.resources
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.Credit.resources
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.deneme1111.resources
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.exit.resources
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.Form1.resources
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.MageMap.resources
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.NewGameSelectionScreen.resources
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.Properties.Resources.resources
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.RangedMap.resources
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.TankMap.resources
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.csproj.GenerateResource.cache
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.AssemblyInfoInputs.cache
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.AssemblyInfo.cs
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.csproj.CoreCompileInputs.cache
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.dll
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\refint\VaticanoGamin'.dll
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.pdb
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.genruntimeconfig.cache
+E:\Git\kagan git\Projeler\C# OOP Oyun- kagan\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\ref\VaticanoGamin'.dll
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\bin\Debug\net6.0-windows\VaticanoGamin'.exe
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\bin\Debug\net6.0-windows\VaticanoGamin'.deps.json
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\bin\Debug\net6.0-windows\VaticanoGamin'.runtimeconfig.json
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\bin\Debug\net6.0-windows\VaticanoGamin'.dll
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\bin\Debug\net6.0-windows\VaticanoGamin'.pdb
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.csproj.AssemblyReference.cache
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.AssassinsMap.resources
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.Credit.resources
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.deneme1111.resources
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.exit.resources
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.Form1.resources
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.MageMap.resources
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.NewGameSelectionScreen.resources
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.Properties.Resources.resources
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.RangedMap.resources
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin_.TankMap.resources
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.csproj.GenerateResource.cache
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.AssemblyInfoInputs.cache
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.AssemblyInfo.cs
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.csproj.CoreCompileInputs.cache
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.dll
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\refint\VaticanoGamin'.dll
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.pdb
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\VaticanoGamin'.genruntimeconfig.cache
+D:\Github\Education-and-Project\Projeler\C# OOP Oyun\VaticanoGamin'\VaticanoGamin'\obj\Debug\net6.0-windows\ref\VaticanoGamin'.dll
